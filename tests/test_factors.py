@@ -6,7 +6,7 @@ yfinance.  Integration testing that touches the network belongs in a
 separate ``tests/test_integration.py`` (skipped by default).
 """
 
-# Maintenance: last reviewed 2026-09-08 (daily improvement cycle)
+# Maintenance: last reviewed 2026-09-11 (daily improvement cycle)
 
 from __future__ import annotations
 
